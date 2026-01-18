@@ -1,7 +1,7 @@
 Just make sure to add these libraries:
-1.Streamlit -> For the UI to work. {INSTALLATION COMMAND -> pip install streamlit}
-2.hashlib -> For root user password hashing. {INSTALLATION COMMAND -> pip install hashlib}
-3.cryptography -> For password encryption. {INSTALLATION COMMAND -> pip install cryptography}
+1.Streamlit -> For the UI to work. {INSTALLATION COMMAND -> pip install streamlit} \n
+2.hashlib -> For root user password hashing. {INSTALLATION COMMAND -> pip install hashlib} \n
+3.cryptography -> For password encryption. {INSTALLATION COMMAND -> pip install cryptography} \n
 
 for the dummies that don't know where to add the installation commands:
 1. How tf did you get to GitHub without knowing this...
