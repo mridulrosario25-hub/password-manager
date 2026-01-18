@@ -1,5 +1,4 @@
-Just make sure to add these libraries,
-
+Just make sure to add these libraries:
 1.Streamlit -> For the UI to work. {INSTALLATION COMMAND -> pip install streamlit}
 2.hashlib -> For root user password hashing. {INSTALLATION COMMAND -> pip install hashlib}
 3.cryptography -> For password encryption. {INSTALLATION COMMAND -> pip install cryptography}
