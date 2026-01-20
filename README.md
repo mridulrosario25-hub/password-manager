@@ -22,6 +22,7 @@ A secure, GUI-based **Password Manager** built using **Python and Streamlit**, d
 - **hashlib** (for hashing)
 - **cryptography (Fernet)** (for encryption)
 - File handling / local storage
+- SQLite database for secure and structured credential storage
 
 ---
 
