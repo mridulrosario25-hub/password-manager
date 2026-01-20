@@ -1,14 +1,33 @@
-Just make sure to add these libraries:  
-1.Streamlit -> For the UI to work. {INSTALLATION COMMAND -> pip install streamlit}  
-2.hashlib -> For root user password hashing. {INSTALLATION COMMAND -> pip install hashlib}  
-3.cryptography -> For password encryption. {INSTALLATION COMMAND -> pip install cryptography}
+# 🔐 Password Manager (Python + Streamlit)
 
-for the dummies that don't know where to add the installation commands:
-1. How tf did you get to GitHub without knowing this...
-2. Put the installation command into your respective terminal(If you're using VSC its the bottom output terminal where your code output usually shows up)
-3. if it shows any errors scrounge the internet or reddit for it..
+A secure, GUI-based **Password Manager** built using **Python and Streamlit**, designed to store and manage passwords safely using **hashing and encryption**.
 
-How to run the program:  
-Just run the command "streamlit run passwords.py" or "python -m streamlit run passwords.py"
+---
 
-Have fun managing your passwords!!
+## 🚀 Features
+
+- Master password authentication (SHA-256 hashing)
+- Encrypted storage of passwords (Fernet encryption)
+- Add, view, edit, and delete stored credentials
+- Password reveal / hide toggle
+- Session-based login & logout
+- Clean and interactive Streamlit UI
+
+---
+
+## 🛠 Tech Stack
+
+- **Python**
+- **Streamlit**
+- **hashlib** (for hashing)
+- **cryptography (Fernet)** (for encryption)
+- File handling / local storage
+
+---
+
+## 📦 Required Libraries
+
+Install the required dependencies using:
+
+```bash
+pip install streamlit cryptography
