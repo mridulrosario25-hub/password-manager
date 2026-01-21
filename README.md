@@ -12,6 +12,7 @@ A secure, GUI-based **Password Manager** built using **Python and Streamlit**, d
 - Password reveal / hide toggle
 - Session-based login & logout
 - Clean and interactive Streamlit UI
+- Password copy feature
 
 ---
 
